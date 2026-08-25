@@ -1,0 +1,27 @@
+h3 {
+    color: darkblue;
+}
+
+.container {
+    color: #656;
+    border-style: dashed;
+    border-color: brown;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.container-bg {
+    background-color: rgb(207, 230, 231);
+}
+
+.my-font {
+    font-family: "Playpen Sans Thai", cursive;
+}
+
+#container-id {
+    color: blueviolet;
+    margin-top: 25px;
+}
